@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from scipy import stats
 from sklearn.neighbors import LocalOutlierFactor
 from sklearn.ensemble import IsolationForest
 import matplotlib.pyplot as plt
