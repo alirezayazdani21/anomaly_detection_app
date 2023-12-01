@@ -1,6 +1,6 @@
 The goal of this app is to enable the implementation of quick yet effective (univariate) time series anomaly and novelty detection algorithms. 
 
-Tha App is now live at: https://al-yazdani-ts-anomalydetectionapp-v03.streamlit.app/
+The app is now live at: https://al-yazdani-ts-anomalydetectionapp-v03.streamlit.app/
 
 
 # Running the app
