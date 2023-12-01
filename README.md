@@ -1,4 +1,4 @@
-The goal of this app is to enable the implementation of a quick yet effective anomaly and novelty detection algorithms. 
+The goal of this app is to enable the implementation of quick yet effective (univariate) time series anomaly and novelty detection algorithms. 
 
 
 # Running the app
